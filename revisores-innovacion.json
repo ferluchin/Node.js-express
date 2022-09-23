@@ -1,0 +1,137 @@
+[
+    {
+        "id": "boadamax@gmail.com",
+        "name": "Max Gabriel Boada Hurtado",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Marketing , Estudios de Mercados, Proyectos empresariales, Proyectos de emprendimiento  e investigación. ",
+        "provider": "GOOGLE",
+        "evaluator": "Universidad Nacional de Loja"
+    },
+    {
+        "id": "pablo.herrera0259@utc.edu.ec",
+        "name": "Pablo Gilberto Herrera Soria ",
+        "faculty": "Ciencias Exactas y Naturales",
+        "department": "Quimica",
+        "career": "Tecnologí­a de lácteos",
+        "provider": "GOOGLE",
+        "evaluator": "Universidad Técnica de Cotopaxi "
+    },
+    {
+        "id": "galvarez@ups.edu.ec",
+        "name": "Gabriela Alvarez",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Innovación y emprendimiento ",
+        "provider": "MICROSOFT",
+        "evaluator": "Universidad Politécnica Salesiana"
+    },
+    {
+        "id": "silvana.astudillo@ucuenca.edu.ec",
+        "name": "Silvana Astudillo",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Emprendimiento e innovación",
+        "provider": "MICROSOFT",
+        "evaluator": "U de Cuenca"
+    },
+    {
+        "id": "pcarrera@ups.edu.ec",
+        "name": "Paola Carrera",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Emprendimiento, Proyectos, Desarrollo, Gestión Sostenible",
+        "provider": "MICROSOFT",
+        "evaluator": "Universidad Politécnica Salesiana"
+    },
+    {
+        "id": "xhfabara@espe.edu.ec",
+        "name": "Xavier Hermógenes Fabara Zambrano",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Administracion _ Mercadotecnia",
+        "provider": "OTRO",
+        "evaluator": "Universidad de las Fuerzas Armadas ESPE"
+    },
+    {
+        "id": "lbrito@utmachala.edu.ec",
+        "name": "Luis Felipe Brito Gaona ",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía ",
+        "provider": "OTRO",
+        "evaluator": "Universidad Técnica de Machala "
+    },
+    {
+        "id": "llozano@utb.edu.ec",
+        "name": "Luis Lozano Chaguay",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Innovación y Emprendimiento",
+        "provider": "GOOGLE",
+        "evaluator": "Universidad Técnica de Babahoyo "
+    },
+    {
+        "id": "msoriano@ups.edu.ec",
+        "name": "Maria Belen Soriano Cevallos",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Desarrollo Rural y Gestion Sostenible",
+        "provider": "MICROSOFT",
+        "evaluator": "Universidad Politécnica Salesiana"
+    },
+    {
+        "id": "jaime.bermeo@ucacue.edu.ec",
+        "name": "Jaime Adrián Bermeo Castro",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía, Innovación y Emprendimiento",
+        "provider": "MICROSOFT",
+        "evaluator": "Universidad Católica de Cuenca"
+    },
+    {
+        "id": "acabrerad@ucacue.edu.ec",
+        "name": "Augusto Enrique Cabrera Duffaut",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Innovación",
+        "provider": "MICROSOFT",
+        "evaluator": "Universidad Católica de Cuenca"
+    },
+    {
+        "id": "fvicuna@prendho.com",
+        "name": "Francisco Vicuña",
+        "faculty": "Ciencias Exactas y Naturales",
+        "department": "Quimica",
+        "career": "Alimentos, Innovación y Emprendimiento",
+        "provider": "OTRO",
+        "evaluator": "UTPL"
+    },
+    {
+        "id": "spalacios@prendho.com",
+        "name": "Sophia Palacios",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Innovación, emprendimiento, agroindustria alimentaria, sostenibilidad",
+        "provider": "OTRO",
+        "evaluator": "UTPL"
+    },
+    {
+        "id": "pvivanco@prendho.com",
+        "name": "Paulina Vivanco",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Innovación, emprendimiento, agroindustria alimentaria, sostenibilidad",
+        "provider": "OTRO",
+        "evaluator": "UTPL"
+    },
+    {
+        "id": "aacardenas@espe.edu.ec",
+        "name": "Alisva de los Ángeles Cárdenas Pérez",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía y Finanzas",
+        "provider": "OTRO",
+        "evaluator": "Universidad de las Fuerzas Armadas ESPE"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "id": "jamaldonadox@utpl.edu.ec",
+        "name": "Jorge Alberto Maldonado Ordóñez",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS JURÍDICAS",
+        "career": "Derecho"
+    },
+    {
+        "id": "edluzuriaga@utpl.edu.ec",
+        "name": "Enrique David Luzuriaga Muñoz",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS JURÍDICAS",
+        "career": "Derecho"
+    },
+    {
+        "id": "maherrera@utpl.edu.ec",
+        "name": "María Augusta Herrera Vásquez ",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS JURÍDICAS",
+        "career": "Derecho"
+    },
+    {
+        "id": "gecuenca@utpl.edu.ec",
+        "name": "Geovanny Eduardo Cuenca Puma",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "PSICOLOGÍA",
+        "career": "Psicología"
+    },
+    {
+        "id": "dmortega1@utpl.edu.ec",
+        "name": "David Mauricio Ortega Jiménez ",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "PSICOLOGÍA",
+        "career": "Psicología"
+    },
+    {
+        "id": "mrramirez@utpl.edu.ec",
+        "name": "Marina del Rocío Ramírez Zhindón",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "PSICOLOGÍA",
+        "career": "Psicología Clínica"
+    },
+    {
+        "id": "ccortiz@utpl.edu.ec",
+        "name": "Carlos Ortiz León",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS DE LA COMUNICACIÓN",
+        "career": "Comunicación"
+    },
+    {
+        "id": "lizabaleta@utpl.edu.ec",
+        "name": "Luz Ivonne Zabaleta Costa",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "PSICOLOGÍA",
+        "career": "Psicopedagogía"
+    },
+    {
+        "id": "ddperez@utpl.edu.ec",
+        "name": "Digna Dionisia Pérez Bravo",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS DE LA EDUCACIÓN",
+        "career": "CCEE Educación Básica"
+    },
+    {
+        "id": "jesanchez40@utpl.edu.ec",
+        "name": "José Edmundo Sánchez Romero",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS DE LA EDUCACIÓN",
+        "career": "CCEE Físico - Matemáticas"
+    },
+    {
+        "id": "grquezada@utpl.edu.ec",
+        "name": "Grethy del Rocio Quezada Lozano",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS DE LA EDUCACIÓN",
+        "career": "CCEE Químico - Biológicas"
+    },
+    {
+        "id": "nagonzalez2@utpl.edu.ec",
+        "name": "Norman Alberto González Tamayo",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "FILOSOFÍA, ARTES Y HUMANIDADES",
+        "career": "CCEE Lengua y Literatura"
+    },
+    {
+        "id": "mrunda@utpl.edu.ec",
+        "name": "Mónica Rosalba Unda Costa",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS DE LA EDUCACIÓN",
+        "career": "CCEE Educación Inicial"
+    },
+    {
+        "id": "lvtorox@utpl.edu.ec",
+        "name": "Lisset Vanessa Toro Gallardo",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "FILOSOFÍA, ARTES Y HUMANIDADES",
+        "career": "Pedagogía de los Idiomas Nacionales y Extranjeros"
+    },
+    {
+        "id": "mmplacencia@utpl.edu.ec",
+        "name": "Miury Marieliza Placencia Tapia",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "CIENCIAS DE LA EDUCACIÓN",
+        "career": "CCEE Religión"
+    },
+    {
+        "id": "vnoriega@utpl.edu.ec",
+        "name": "Verónica Noriega Armijos",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "FILOSOFÍA, ARTES Y HUMANIDADES",
+        "career": "Artes Visuales"
+    },
+    {
+        "id": "csgarcia4@utpl.edu.ec",
+        "name": "Carla Saúl García Marcelino",
+        "faculty": "CIENCIAS SOCIALES, EDUCACIÓN Y HUMANIDADES",
+        "department": "FILOSOFÍA, ARTES Y HUMANIDADES",
+        "career": "Artes Escénicas"
+    },
+    {
+        "id": "bazarate@utpl.edu.ec",
+        "name": "Belizario Amador Zárate Torres",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "INGENIERÍA CIVIL",
+        "career": "Ingeniería Civil"
+    },
+    {
+        "id": "fmsoto@utpl.edu.ec",
+        "name": "Fernanda Maricela Soto Guerrero",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "CIENCIAS DE LA COMPUTACIÓN Y ELECTRÓNICA",
+        "career": "Ciencias de la Computación"
+    },
+    {
+        "id": "daguaman@utpl.edu.ec",
+        "name": "Daniel Alejandro Guamán Coronel",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "CIENCIAS DE LA COMPUTACIÓN Y ELECTRÓNICA",
+        "career": "Tecnologías de la Información"
+    },
+    {
+        "id": "xeburneo@utpl.edu.ec",
+        "name": "Xavier Eduardo Burneo Valdivieso",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "ARQUITECTURA Y URBANISMO",
+        "career": "Arquitectura"
+    },
+    {
+        "id": "jaguartan@utpl.edu.ec",
+        "name": "José Arturo Guartán Medina",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "GEOCIENCIAS",
+        "career": "Geología y Minas"
+    },
+    {
+        "id": "cdparreno1@utpl.edu.ec",
+        "name": "Carolina del Carmen Parreño Bonilla",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "INGENIERÍA CIVIL",
+        "career": "Logística y Transporte"
+    },
+    {
+        "id": "pagonzalez@utpl.edu.ec",
+        "name": "Priscila Amalia González Briceño",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "INGENIERÍA CIVIL",
+        "career": "Gestión de Riesgos y Desastres"
+    },
+    {
+        "id": "fasandoval@utpl.edu.ec",
+        "name": "Francisco Alberto Sandoval Noreña",
+        "faculty": "INGENIERÍAS Y ARQUITECTURA",
+        "department": "CIENCIAS DE LA COMPUTACIÓN Y ELECTRÓNICA",
+        "career": "Telecomunicaciones"
+    },
+    {
+        "id": "micarrillo@utpl.edu.ec",
+        "name": "María Irene Carrillo Mayanquer",
+        "faculty": "CIENCIAS DE LA SALUD",
+        "department": "CIENCIAS DE LA SALUD",
+        "career": "Medicina"
+    },
+    {
+        "id": "miordonez4@utpl.edu.ec",
+        "name": "Meri Isabel Ordóñez Sigcho",
+        "faculty": "CIENCIAS DE LA SALUD",
+        "department": "CIENCIAS DE LA SALUD",
+        "career": "Enfermería"
+    },
+    {
+        "id": "nvcardenas1@utpl.edu.ec",
+        "name": "Norma Verónica Cárdenas Mazón",
+        "faculty": "CIENCIAS DE LA SALUD",
+        "department": "CIENCIAS DE LA SALUD",
+        "career": "Nutrición y dietética"
+    },
+    {
+        "id": "sdcabrera6@utpl.edu.ec",
+        "name": "Stefanny Daniela Cabrera Celi",
+        "faculty": "CIENCIAS DE LA SALUD",
+        "department": "CIENCIAS DE LA SALUD",
+        "career": "Fisioterapia"
+    },
+    {
+        "id": "edcapa@utpl.edu.ec",
+        "name": "Edwin Daniel Capa Mora",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "CIENCIAS BIOLÓGICAS Y AGROPECUARIAS",
+        "career": "Agropecuaria"
+    },
+    {
+        "id": "jfreyes@utpl.edu.ec",
+        "name": "Jorge Felipe Reyes Bueno",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "QUÍMICA",
+        "career": "Alimentos "
+    },
+    {
+        "id": "nesolano@utpl.edu.ec",
+        "name": "Natali Elizabeth Solano Cueva",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "QUÍMICA",
+        "career": "Ingeniería Química"
+    },
+    {
+        "id": "xygonzalez@utpl.edu.ec",
+        "name": "Ximena Yadira González Rentería",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "CIENCIAS BIOLÓGICAS Y AGROPECUARIAS",
+        "career": "Gestión Ambiental"
+    },
+    {
+        "id": "mavilla@utpl.edu.ec",
+        "name": "Mercedes Alexandra Villa Achupallas",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "QUÍMICA",
+        "career": "Ingeniería Ambiental"
+    },
+    {
+        "id": "ctcruz1@utpl.edu.ec",
+        "name": "Claudia Teresa Cruz Erazo",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "QUÍMICA",
+        "career": "Bioquímica y Farmacia"
+    },
+    {
+        "id": "ortandazo@utpl.edu.ec",
+        "name": "Oswaldo Rafael Tandazo Tandazo",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "PRODUCCIÓN",
+        "career": "Ingeniería Industrial"
+    },
+    {
+        "id": "coramirez@utpl.edu.ec",
+        "name": "César Octavio Ramírez García",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "PRODUCCIÓN",
+        "career": "Seguridad y Salud Ocupacional"
+    },
+    {
+        "id": "niaguirre@utpl.edu.ec",
+        "name": "Nathalie Isabel Aguirre Padilla",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "CIENCIAS BIOLÓGICAS Y AGROPECUARIAS",
+        "career": "Agronegocios"
+    },
+    {
+        "id": "djcruz@utpl.edu.ec",
+        "name": "Dario Javier Cruz Sarmiento",
+        "faculty": "CIENCIAS EXACTAS Y NATURALES",
+        "department": "CIENCIAS BIOLÓGICAS Y AGROPECUARIAS",
+        "career": "Biología"
+    },
+    {
+        "id": "daochoa@utpl.edu.ec",
+        "name": "Diego Alejandro Ochoa Jiménez",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "ECONOMÍA",
+        "career": "Economía"
+    },
+    {
+        "id": "jarios@utpl.edu.ec",
+        "name": "Julio Alberto Ríos Zaruma",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Administración de Empresas"
+    },
+    {
+        "id": "geponce@utpl.edu.ec",
+        "name": "Glenda Edith Ponce Espinosa  ",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Administración de Empresas"
+    },
+    {
+        "id": "dfgarciax@utpl.edu.ec",
+        "name": "Diego Fernando García Vélez",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Administración en Gestión Pública"
+    },
+    {
+        "id": "vdespinoza@utpl.edu.ec",
+        "name": "Viviana del Cisne Espinoza Loayza",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Finanzas"
+    },
+    {
+        "id": "csvinan@utpl.edu.ec",
+        "name": "Christian Stalin Viñán Merecí",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Administración de Empresas Turísticas y Hoteleras"
+    },
+    {
+        "id": "mygonzalez@utpl.edu.ec",
+        "name": "Melania Yadira González Torres",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Contabilidad y Auditoría"
+    },
+    {
+        "id": "mjortega@utpl.edu.ec",
+        "name": "Mayra Janet Ortega Vivanco",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Asistencia Gerencial y Relaciones Públicas"
+    },
+    {
+        "id": "jfrosero7@utpl.edu.ec",
+        "name": "Jairo Franklin Rosero Arévalo",
+        "faculty": "CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "department": "CIENCIAS EMPRESARIALES",
+        "career": "Gastronomía"
+    }
+]

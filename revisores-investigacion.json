@@ -1,0 +1,1730 @@
+[
+    {
+        "id": "mssegarra@utpl.edu.ec",
+        "name": "María Soledad Segarra Morales",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Ingeniería vial, Ingeniería Civil",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "bazarate@utpl.edu.ec",
+        "name": "Belizario Zárate",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Ingeniería vial, deslizamiento de laderas",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "hvpazmino@unach.edu.ec",
+        "name": "Vladimir Pazmiño",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Ingeniería vial",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "altamira@eicam.unsj.edu.ar",
+        "name": "Aníbal Altamira",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Ingeniería Vial",
+        "provider": "OTRO"
+    },
+    {
+        "id": "ldandrade@utpl.edu.ec",
+        "name": "Lucy Andrade",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Expertos en educomunicación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ambeltran@utpl.edu.ec",
+        "name": "Claudia Rodríguez",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Comunicación",
+        "career": "Expertos en educomunicación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "irios@udemedellin.edu.co",
+        "name": "Ivan Neftali",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Comunicación",
+        "career": "Expertos en educomunicación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ignacio@aguaded.es",
+        "name": "Ignacio Aguaded",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Expertos en educomunicación",
+        "provider": "OTRO"
+    },
+    {
+        "id": "dmortega1@utpl.edu.ec",
+        "name": "David Mauricio Ortega Jiménez",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Psicología, Prevención de riesgos laborales ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "fdiazb@ugr.es",
+        "name": "Francisco Díaz Bretones",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Psicología social, relaciones laborales ",
+        "provider": "OTRO"
+    },
+    {
+        "id": "snbrizuela@utpl.edu.ec",
+        "name": "Sor Natalia Brizuela Camacho",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Pedagogía, Didáctica, Educación, Sociología",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "vpsanchez@utpl.edu.ec",
+        "name": "Verónica Patricia Sánchez Burneo",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Gestión Escolar, Políticas Públicas, Aprendizaje mediado por tic",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ddperez@utpl.edu.ec",
+        "name": "Digna Dionisia Pérez Bravo",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Pedagogia, Didáctica, Politicas Educativas, Evaluación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ejcabrera3@utpl.edu.ec",
+        "name": "Edwin Jose Cabrera Paucar",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Pedagogía, Didáctica, ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "symaurera@utpl.edu.ec",
+        "name": "Sandra Yaritza Maurera Caballero",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Literatura Infantil, Educación Especial.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pcvillarroel@utpl.edu.ec",
+        "name": "Paola Carina Villarroel Dávila",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Neuropsicología, Educación preescolar, Inclusión.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "kguerrerom@gmail.com",
+        "name": "Karlo Guerrero",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Bioprocesos, Biotecnología",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "gbvinamagua@utpl.edu.ec",
+        "name": "Gustavo Viñamagua",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Matemática educativa y aplicada. Didáctica de la matemática universitaria",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "tcmanzanillas@utpl.edu.ec",
+        "name": "Tatiana Cecibel Mansanillas Rojas",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Psicología, Terapia familiar ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "r.romero@uas.edu.mx",
+        "name": "Rosendo Romero Andrade",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "GNSS,Deformación de la Corteza a través de métodos satelitales",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "mgcamargo@utpl.edu.ec",
+        "name": "María Gabriela Camargo Mora. ",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Ordenamiento Territorial, ambiente  y urbanismo ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "svvalarezo@utpl.edu.ec",
+        "name": "Sandra Vanesa Valarezo.",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Ordenamiento Territorial, urbanismo",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "yoye196984@gmail.com",
+        "name": "Joel Francisco Mejía. ",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Ordenamiento territorial, estudios ambientales, sostenibilidad, manejo de cuencas",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "omarguerrero1231@gmail.com",
+        "name": "Omar Antonio Guerrero.",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Análisis biofísico, Sedimentología y Geomorfología",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "gustavogeog61@gmail.com",
+        "name": "Gustavo Páez.",
+        "faculty": "",
+        "department": "",
+        "career": " Análisis estadísticos poblacionales, demográficos, patrones espacio-temporales Ordenamiento territorial",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "ipceli@utpl.edu.ec",
+        "name": "Israel Celi Toledo",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Derecho Constitucional, Derechos Humanos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rfpascumal@utpl.edu.ec",
+        "name": "Ricardo Fabian Pascumal Luna",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Derecho Constitucional y Derechos Humanos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "aeromeiro@utpl.edu.ec",
+        "name": "Artieres Estevao Romeiro",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Ciencias de la educación, Gestión estratégica y desarrollo.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dcyunga@utpl.edu.ec",
+        "name": "Deisi Cesibel Yunga Godoy",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Ciencias de la educación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ldandrade@utpl.edu.ec",
+        "name": "Lucy Deyanira Andrade Vargas",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Ciencias de la educación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pmbeltran@utpl.edu.ec",
+        "name": "Patricia Maricela Beltrán Guevara",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Educación; Educación infantil, familia",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "xpcarrera@utpl.edu.ec",
+        "name": "Xiomara Paola Carrera Herrera",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Educación, psicología, familia ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ivan_san_martin@hotmail.com",
+        "name": "Iván San Martin",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "historia, teoría y estética de la arquitectura del siglo XIX y XX",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "khsotox@utpl.edu.ec",
+        "name": "Katherine Soto Toledo",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Rehabilitación urbana- arquitectónica, construcciones tradicionales, centros históricos, patrimonio rural",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ernesto.redondo@upc.edu",
+        "name": "Ernesto Redondo Domínguez",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "proyectos arquitectónicos, urbanismo, historia de la arquitectura",
+        "provider": "OTRO"
+    },
+    {
+        "id": "meaguirre2@utpl.edu.ec",
+        "name": "María Elvira Aguirre Burneo",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Orientación educativa, Psicología educativa, Violencia, Educación para La Paz",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "wgsiguenza@utpl.edu.ec",
+        "name": "Wilson Guillermo Sigüenza Camporverde",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Psicología, educación.  ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "hmbenavides@utpl.edu.ec",
+        "name": "Holger Benavides Muñoz",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Recursos Hídricos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "nudelman.mario@uader.edu.ar",
+        "name": "Mario Nudelman",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Abastecimientos de agua potable urbanos",
+        "provider": "OTRO"
+    },
+    {
+        "id": "jasool@ita.upv.es",
+        "name": "Javier Soriano Olivares",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Abastecimientos de agua potable urbanos",
+        "provider": "OTRO"
+    },
+    {
+        "id": "sandra.villacorta-chambi@cdu.edu.au",
+        "name": "Sandra Paula Villacorta Chambi",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Evaluación de los riesgos geológicos; Modelización numérica; Geomorfología; Educación en geociencias; Ciencia de los datos; SIG y Comunicación científica.",
+        "provider": "OTRO"
+    },
+    {
+        "id": "tptorres@utpl.edu.ec",
+        "name": "Tania Torres",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía Urbana y Regional",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pmassa@utpl.edu.ec",
+        "name": "Priscilla Massa",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mendozag@unam.mx",
+        "name": "Miguel Angel Mendoza",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rodrigo.mendieta@ucuenca.edu.ec",
+        "name": "Luis Rodrido Mendieta Muñoz",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "mfzumba@utpl.edu.ec",
+        "name": "María Fernanda Zumba Zuñiga ",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Innovación, responsabilidad social, sostenibilidad ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mjortega@utpl.edu.ec",
+        "name": "Mayra Ortega Vivanco ",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Competitividad, economía internacional, desarrollo económico, marketing",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ydjimenez@utpl.edu.ec",
+        "name": "Yuliana Jiménez",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Biomedicina, Bioinformática, BIotecnología, Inteligencia artificial, Innovación educativa",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "clopezn@us.ec",
+        "name": "Carla López Nuñez",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Psicología de la Salud; Adicciones, Psicología Clínica",
+        "provider": "OTRO"
+    },
+    {
+        "id": "vmlopez5@utpl.edu.ec",
+        "name": "Victor Manuel López Guerra",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Psicología de la Salud, Adicciones, Psicometría",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jesusguerrero.psi@gmail.com",
+        "name": "Jesús Guerrero Alcedo",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Psicología",
+        "career": "Psicología de la Salud, Capital Psicológico, Psicología Positiva",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "lrbarba@utpl.edu.ec",
+        "name": "Rodrigo Barba Guamán",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Inteligencia artificial, visión por computadora, machine learning.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ydjimenez@utpl.edu.ec",
+        "name": "Yuliana Jimenez Gaona",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "deep learning, visión por computadora, machine learning",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mcervera@usat.edu.pe",
+        "name": "Mirtha FLor Cervera Vallejos ",
+        "faculty": "Ciencias de la salud",
+        "department": "Ciencias de la Salud",
+        "career": "Bióetica - Enfermería Renal - Investigación Social ",
+        "provider": "OTRO"
+    },
+    {
+        "id": "elazaro@usat.edu.pe",
+        "name": "Elaine Lazaro Alcantara ",
+        "faculty": "Ciencias de la salud",
+        "department": "Ciencias de la Salud",
+        "career": "Doctora en Enfermería por la Universidad Nacional de Trujillo, con Maestría en Ciencias de Enfermería y Segunda Especialidad en Docencia en Enfermería. Profesora de Tiempo Completo en la Universidad Católica Santo Toribio de Mogrovejo - Chiclayo. Docente en programas de pregrado y postgrado (Maestría y Doctorado) en Enfermería. Coordinadora académica del Doctorado en Enfermería USAT. Diplomada en Gestión de la Calidad y Procesos por ESAN Conferencista en eventos nacionales e internacionales. Asesora de tesis en pregrado y postgrado que profundizan temáticas en Condiciones de Trabajo, Identidad, Imagen e Historia de la enfermería. Metodológicamente profundizo en el enfoque cualitativo y mixto de la investigación con métodos de enfoque socio crítico. Autora de libros y artículos publicados en revistas indexadas. Con experiencia de 25 años en la docencia universitaria y 27 años como Enfermera asistencial en el Hospital Regional Policial Chiclayo.",
+        "provider": "OTRO"
+    },
+    {
+        "id": "dbbravo@utpl.edu.ec",
+        "name": "Diana Bravo",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía Agricultura, Seguridad alimentaria",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ciespinosa@utpl.edu.ec ",
+        "name": "Carlos Ivan Espinosa ",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Ecologia, medio ambiente",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "larojas@utpl.edu.ec",
+        "name": "Luis Rojas",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía agraria, seguridad alimentaria",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "bolier.torres@gmail.com",
+        "name": "Bolier Torres",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Desarrollo sostenible, productos forestales y productos forestales no maderables",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "darmijos1@utpl.edu.ec",
+        "name": "Diego Armijos ",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Medio ambiente, conservación ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mauricio.ortega@ikiam.edu.ec",
+        "name": "Mauricio Ortega",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Diversidad, conservación ",
+        "provider": "OTRO"
+    },
+    {
+        "id": "btinoco@uazuay.edu.ec",
+        "name": "Boris Tinoco",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Biodiversidad ",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "darioalfredov@yahoo.com",
+        "name": "Dario Veintimilla",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Manejo forestal sostenible, Productos forestales no maderables",
+        "provider": "OTRO"
+    },
+    {
+        "id": "mariadelmar.martin@gm.uca.es",
+        "name": "María del Mar Aragón",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias Jurídicas",
+        "career": "Derecho Penal y Procesal Penal",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "laarias@utpl.edu.ec",
+        "name": "Leonardo Arias",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "gestión de suelo, análisis espacial",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "Maflopez@flacso.edu.ec",
+        "name": "María Fernanda López",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "desarrollo rural, geografía",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "mviniguez1@utpl.edu.ec",
+        "name": "Verónica Íñiguez Gallardo",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "cambio climático, investigación cualitativa",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "kordonez@utpl.edu.ec",
+        "name": "Kruzkaya Ordóñez González",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, redes sociales, televisión.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cwgrandax@utpl.edu.ec",
+        "name": "Cesar Williams Granda Lasso",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Educación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ccortiz@utpl.edu.ec",
+        "name": "Carlos Ortiz León",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, redes sociales, televisión, cine",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "arsuing@utpl.edu.ec",
+        "name": "Abel Suing",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, redes sociales, televisión, regulación, políticas de comunicación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jparrobo1@utpl.edu.ec",
+        "name": "Juan Pablo Arrobo Agila",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, redes sociales, radio",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "hayaguana@utpl.edu.ec",
+        "name": "Hernán Yaguna Romero ",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, radio, televisión, automarización",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "lj.reales@uta.edu.ec",
+        "name": "Lisbeth Josefina Reales",
+        "faculty": "Ciencias de la salud",
+        "department": "Ciencias de la Salud",
+        "career": "Areas de la salud y educación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "aefries@utpl.edu.ec",
+        "name": "Andreas Fries",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Clima, Geografía Física, Datos espaciales, Ciencias de la Tierra",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mfquinones@utpl.edu.ec",
+        "name": "Manuel Quiñones Cuenca",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Redes de sensores, IoT, Electrónica, Recolección de datos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dballari@uazuay.edu.ec ",
+        "name": "Daniela Ballari",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Clima,Geografía Física,Datos espaciales,Ciencias de la Tierra",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "rquizhpe@utpl.edu.ec",
+        "name": "Rolando Quishpe ",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Didactica de la matemática Universitaria, matemática educativa y aplicada",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "villie.morocho@ucuenca.edu.ec ",
+        "name": "Villie Morocho Zurita",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Infraestructura de datos espaciales,Innovación,Desarrollo,Ciencias de la Tierra",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "karohoden@utpl.edu.ec",
+        "name": "Katty Alexandra Rohoden Jaramillo",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Redes celulares, femtoceldas, sistemas de comunicación, telecomunicaciones ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rovitor@utpl.edu.ec",
+        "name": "Rommel Vicente Torres Tandazo",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Mobile networks, distributed computing, project management",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "lkcarpio@utpl.edu.ec",
+        "name": "Lilia Carpio Jiménez",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Arte, diseño, audiovisual",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "vegonzalez@utpl.edu.ec",
+        "name": "Verónica González Rentería",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, televisión, cine",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "fjserrano1@utpl.edu.ec ",
+        "name": "Fernando Javier Serrano Tamay ",
+        "faculty": "Ciencias de la salud",
+        "department": "Ciencias de la Salud",
+        "career": "Ciencias Biológicas y Salud ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jcmaldonado2@utpl.edu.ec",
+        "name": "Juan Carlos Maldonado ",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, redes sociales, televisión, cine, educación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "eppacheco@utpl.edu.ec",
+        "name": "Pacheco Montoya Emma Patricia",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Propiedad Intelectual; Derechos Digitales; Derecho Penal Informático",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "lpuertas@utpl.edu.ec",
+        "name": "Puertas Bravo Fabiola Lucia",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Derecho Laboral; Derechos Digitales",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "tbtene@utpl.edu.ec",
+        "name": "Talia Tene",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Biofísica, Física, Matemáticas, Físicoquímica de Materiales, Ingeniería química",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "gbvinamagua@utpl.edu.ec",
+        "name": "Gustavo Viñamagua ",
+        "faculty": "",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "sacurio@hotmail.com",
+        "name": "Acurio Del Pino Santiago Martín",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Derechos Digitales; Derecho Penal Informático",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "carlos.carrion.betancourt@udla.edu.ec",
+        "name": "Carlos Enrique Carrión Betancourt",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Procesamiento de Señales e Imágenes, Probabilidades y Procesos Estocásticos, Comunicaciones Digitales, Comunicaciones Ópticas.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "renato.jijena@pucv.cl",
+        "name": "Renato Jijena Leiva",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Derechos Digitales; Derecho Penal Informático",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "tjochoa@utpl.edu.ec",
+        "name": "Tania Ochoa Ochoa",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Gestión del territorio, planificación territorial, medición del impacto del turismo en el territorio, generación de estadísticas e indicadores territoriales.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jesoto@utpl.edu.ec",
+        "name": "John Egverto Soto Luzuriaga",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Geociencias",
+        "career": "geociencias, geotecnia y riesgos geológicos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "aparmijos@utpl.edu.ec",
+        "name": "Patricia Armijos Maurad",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Patrimonio Histórico/Cultural, Patrimonio Natural, Identidad y Desarrollo Local",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jorgefabraz@gmail.com",
+        "name": "Jorge Luis Fabra-Zamora",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Derecho, Filosofía del Derecho, Investigación Jurídica, Teoría del Derecho, Filosofía Política, Filosofía Moral, Derecho Constitucional, Argumentación Jurídica",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "hvcarrionx@utpl.edu.ec",
+        "name": "Vinicio Carrión",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Ecología, Suelo, Diversidad, Conservación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "eva.sanchez.amboage@udc.es",
+        "name": "Eva Sánchez Amboage",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Turismo y marketing ,Turismo y promoción,Turismo y redes,Turismo y comunicación",
+        "provider": "OTRO"
+    },
+    {
+        "id": "arbenítez@utpl.edu.ec",
+        "name": "Ángel Benítez",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Ecología de comunidades, estadística, botánica, biodiversidad, briófitos, líquenes, bioindicadores",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "giordani@difar.unige.it",
+        "name": "Paolo Giordani",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Diseño experimental, Ecología, Diversidad, Conservación ",
+        "provider": "OTRO"
+    },
+    {
+        "id": "gdavila@ulima.edu.pe",
+        "name": "Guillermo Antonio Dávila",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Investigación social cualitativa; Administración de empresas; Sistemas de información;Gestión de riesgos y seguros",
+        "provider": "OTRO"
+    },
+    {
+        "id": "christian.tipantuna@epn.edu.ec",
+        "name": "Christian José Tipantuña Tenelema",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Comunicaciones con la utilización de vehículos aéreos no tripulados (UAV), virtualización de funciones de red (NFV), redes definidas por software (SDN), redes inalámbricas, radio definida por software (SDR), redes ópticas y aprendizaje automático aplicado a sistemas y redes de comunicaciones.",
+        "provider": "OTRO"
+    },
+    {
+        "id": "jvtamay@utpl.edu.ec",
+        "name": "José Vidal Tamay Granda",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Geociencias",
+        "career": "Geociencias, geofísica, tectónica.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cecilia.paredes@epn.edu.ec",
+        "name": "Martha Cecilia Paredes ",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Procesamiento de señales para comunicaciones, comunicaciones inalámbricas, sistemas celulares, redes vehiculares",
+        "provider": "OTRO"
+    },
+    {
+        "id": "jfmartinez1@utpl.edu.ec",
+        "name": "Javier Fernando Martinez ",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Infraestructura de telecomunicaciones (Fibra Óptica, Comunicaciones Inalámbricas), proyectos de ingeniería",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dobarragan@utpl.edu.ec",
+        "name": "Diego Barragan",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Teoría de Señales, Teoría de comunicaciones, Teoría de probabilidades",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "kmmuthre@espol.edu.ec",
+        "name": "Keila Mishelle Muthre Freire",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Geociencias Marinas y Costeras.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jorge.carvajal@epn.edu.ec",
+        "name": "Jorge Eduardo Carvajal Rodriguez",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Comunicaciones inalámbricas, aplicaciones con Vehículos aéreos no tripulados, optimización, IoT",
+        "provider": "OTRO"
+    },
+    {
+        "id": "epduque@utpl.edu.ec",
+        "name": "Edwin Patricio Duque Y.",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Estructuras, Dinámica estructural, Sismología, Riesgos naturales. ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "tcbriceno@utpl.edu.ec",
+        "name": "Tamara Briceño",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Geociencias",
+        "career": "Sismología, Riesgos naturales, Geotecnia, Geología.  ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jerojasx@utpl.edu.ec",
+        "name": "Jacqueline Rojas Rojas",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Ciencias Biológicas",
+        "career": "Agronomía",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "maria.cazar@ucuenca.edu.ec",
+        "name": "María Elena Cazar",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Química de Productos Naturales",
+        "provider": "OTRO"
+    },
+    {
+        "id": "jmgutier@ulima.edu.pe",
+        "name": "Juan Manuel Gutierrez Cárdenas",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "inteligencia artificial, machine learning",
+        "provider": "OTRO"
+    },
+    {
+        "id": "svruiz@utpl.edu.ec",
+        "name": "Santiago Ruiz Castillo",
+        "faculty": "Ciencias Jurídicas y Políticas",
+        "department": "Ciencias Jurídicas",
+        "career": "Derecho Penal y Procesal Penal",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "lmchamba@utpl.edu.ec",
+        "name": "Laura Magali Chamba Rueda",
+        "faculty": "Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Gestión del conocimiento, gestión de la calidad, innovación empresarial ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "antoniodicampli@gmail.com",
+        "name": "Antonio di Campli",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Antonio di Campli  es arquitecto y profesor de diseño y teorías urbanas. Ha recibido becas post-doc  de  EPFL, École Polytechnique Fédérale de Lausanne, Politecnico di Torino y Senescyt, Quito. ",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "csgonzalez@gmail.com",
+        "name": "Claudia Salome González",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Territorio, Urbanismo y vivienda",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "lmguaman@utpl.edu.ec",
+        "name": "Luis Miguel Guamán Ortiz",
+        "faculty": "Ciencias de la salud",
+        "department": "Ciencias de la Salud",
+        "career": "Cáncer, rutas de muerte. ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ftinitana@utpl.edu.ec",
+        "name": "Fani Tinitana Imaicela",
+        "faculty": "Ciencias de la salud",
+        "department": "Ciencias de la Salud",
+        "career": "Etnomedicina, cáncer, productos naturales",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rgarc@bq.unam.mx",
+        "name": "Rodolfo García Contreras",
+        "faculty": "Ciencias de la salud",
+        "department": "Ciencias de la Salud",
+        "career": "Microbiología, parasitología",
+        "provider": "OTRO"
+    },
+    {
+        "id": "efcarrion@utpl.edu.ec",
+        "name": "Eduardo Fernando Carrión Coronel",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Modelación hidráulica. Tratamiento de agua por tamizaje y filtración. Diseño de sistemas de agua potable, alcantarillado y riego.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "deguaya@utpl.edu.ec",
+        "name": "Diana Elizabeth Guaya Caraguay ",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Química. Remoción de metales pesado por adsorción. Tratamiento de agua por adsorción y absorción.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "fosorio@ugr.es",
+        "name": "Francisco Osorio Robles",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ingeniería civil",
+        "career": "Tratamiento de aguas. Materiales para la filtración del agua. ",
+        "provider": "OTRO"
+    },
+    {
+        "id": "israel.castillo@colpos.mx",
+        "name": "Israel Castillo Juárez",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Productos Naturales, antibacterianos, modelos in vivo",
+        "provider": "OTRO"
+    },
+    {
+        "id": "cgsarango@utpl.edu.ec",
+        "name": "Cristhian Sarango Jaramillo ",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Literatura, educación y cultura ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "miguelangelsaritam@gmail.com",
+        "name": "Miguel Saritama",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Literatura y Lingüística ",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "mbcastillox@utpl.edu.ec",
+        "name": "Marcela Castillo ",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Educación, lectura y escritura ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "violetahochman2@hotmail.com",
+        "name": "Violeta Hochman",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Literatura y Lingüística ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pfgonzalez@utpl.edu.ec",
+        "name": "Paul Fernando González Torres",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Enseñanza de inglés, Tics para enseñanza de inglés, Lingüística",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "vmserrano@utpl.edu.ec",
+        "name": "Victor Serrano Cueva",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Filosofía, Teología, Religión",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "sbsantacruz@utpl.edu.ec",
+        "name": "Samuel Santacruz Moncayo",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Filosofía, Teología, Religión",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jimhermar@usal.es",
+        "name": "Jimmy Hernández Marcelo",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Filosofía, Fenomenología, Ontología",
+        "provider": "OTRO"
+    },
+    {
+        "id": "drosofilo@hotmail.it",
+        "name": "Francesco Consiglio",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Filosofía, Ontología, Filosofía de la Mente, Historia de la Filosofía ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mipunin@utpl.edu.ec",
+        "name": "María Isabel Punín Larrea ",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, Historia,  Medios, Redes Sociales, Comunicación Política",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "carlos.toural@usc.gal",
+        "name": "Carlos Toural",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, Periodism, Tecnología,Big Data,Data mining, Inteligencia artificial, Automatización. ",
+        "provider": "OTRO"
+    },
+    {
+        "id": "cmier@utpl.edu.ec",
+        "name": "Catalina Mier Sanmartín",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Educomunicación, comunicación para el desarrollo, tratamiento informativo, televisión pública, comunicación/periodismo para la paz. ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "denisse.vasquez@ucuenca.edu.ex",
+        "name": "Denisse Helena Vasquez Guevara",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación estratégica, comunicación de la salud, comunicación científica, relaciones públicas, comunicación digital.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "glcoronel@utpl.edu.ec",
+        "name": "Gabriela Coronel Salas",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación, periodismo, social media, tecnología, data journalism.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "carlos.toural@usc.es",
+        "name": "Carlos Toural Bran",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Arquitectura de la informacióm, nuevos formatos narrativos, Big Data, fact checking, social media, comunicación institucional.",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jorge.maldonado@unl.edu.ec",
+        "name": "Jorge Luis Maldonado Correa",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Energía renovable; Predicción; algoritmos inteligentes",
+        "provider": "OTRO"
+    },
+    {
+        "id": "mameneses@utpl.edu.ec",
+        "name": "Miguel Angel Meneses",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Valorización de recursos vegetales como fuente de extractos bioactivos. Extracción de compuestos bioactivos, Plantas y procesos productivos químicos, farmacéuticos y de alimentos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "apalma@yachaytech.edu.ec",
+        "name": "Alex Palma",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Ingeniería química, análisis electroquímico, análisis químico",
+        "provider": "OTRO"
+    },
+    {
+        "id": "mricaurte@yachaytech.edu.ec",
+        "name": "Marvin Ricaurte",
+        "faculty": "Ciencias exactas y naturales",
+        "department": "Química",
+        "career": "Procesos industriales, escalamiento de procesos, evaluación económica",
+        "provider": "OTRO"
+    },
+    {
+        "id": "rccuenca@utpl.edu.ec",
+        "name": "Roberto Carlos Cuenca Jiménez",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Filosofía, artes, humanidades, educación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mpgonzales@utpl.edu.ec",
+        "name": "Mayra Paola Gonzales Córdova ",
+        "faculty": "Ciencias sociales, educación y humanidades",
+        "department": "Ciencias de la comunicación",
+        "career": "Comunicación Digital, Cibermedios,Nuevos medios,Tendencias en la Comunicación",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "iwreis@utpl.edu.ec",
+        "name": "Ingrid Weingärtner Reis",
+        "faculty": "Ingenierías y Arquitectura",
+        "department": "Ciencias de la computación",
+        "career": "Gestión del conocimiento; Design Thinking y creatividad; metodologias activas; gestión de la calidad; aprendizaje organizacional;",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mgpuninx@utpl.edu.ec",
+        "name": "Punín Burneo María Gabriela",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Arte y Entorno",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "arbenitez@utpl.edu.ec",
+        "name": "Benítez Chávez Ángel Raimundo",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Ciencias Biológicas y Agropecuarias",
+        "career": "Biodiversidad de Ecosistemas Tropicales",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ncbailon@utpl.edu.ec",
+        "name": "Bailón Moscoso Natalia Catalina",
+        "faculty": "Facultad de Ciencias de la Salud",
+        "department": "Ciencias de la Salud",
+        "career": "Biomedicina y  Ambiente",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "omalagon@utpl.edu.ec",
+        "name": "Malagón Áviles Omar Germán",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Química",
+        "career": "Bioproductos y Química Medicinal",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ieherrera@utpl.edu.ec",
+        "name": "Herrera Herrera Iliana Elizabeth",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Ciencia y Tradición Ancestral",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dpcastillo@utpl.edu.ec",
+        "name": "Castillo Malla Darwin Patricio",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Química",
+        "career": "Computational Modelling & Applied  Sciences Group",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "arsuing@utpl.edu.ec",
+        "name": "Suing Ruiz Abel Romeo",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Comunicación",
+        "career": "Comunicación y Cultura Audiovisual",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "derivera@utpl.edu.ec",
+        "name": "Rivera Rogel Diana Elizabeth",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Comunicación",
+        "career": "Comunicación, Educación y Tecnología",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cmier@utpl.edu.ec",
+        "name": "Mier Sanmartin   Catalina",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Comunicación",
+        "career": "Comunicación, poder y ciudadanía en red",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "kmonteros@utpl.edu.ec",
+        "name": "Monteros Cueva Karina",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Conservación sustentable del patrimonio cultural y natural",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cacalderon@utpl.edu.ec",
+        "name": "Calderón Córdova Carlos Alberto",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Control, Automation and Intelligent Systems",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "daochoa@utpl.edu.ec",
+        "name": "Ochoa Jiménez Diego Alejandro",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Crecimiento y desarrollo económico",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "loordonez@utpl.edu.ec",
+        "name": "Ordóñez Pineda Luis Oswaldo",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias Jurídicas",
+        "career": "DERECHOS DIGITALES Y PROTECCIÓN DE DATOS PERSONALES",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "lmcastro4@utpl.edu.ec",
+        "name": "Castro Quezada Luz María",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía de Recursos Naturales, Agricultura y Medio Ambiente",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rfcorrea@utpl.edu.ec",
+        "name": "Correa Quezada Ronny Fabián",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Economía",
+        "career": "Economía Urbana y Regional",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "madavila1@utpl.edu.ec",
+        "name": "Dávila Moreno María Angélica",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Educación a Distancia",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "eequezada@utpl.edu.ec",
+        "name": "Quezada Loaiza Enith Elizabeth",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "EDUCACIÓN INCLUSIVA",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "xpcarrera@utpl.edu.ec",
+        "name": "Carrera Herrera Xiomara Paola",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Educación y Familia",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cdbenitez@utpl.edu.ec",
+        "name": "Benítez Correa Carmen Delia",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "EFL Learning, Teaching and Technology",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "helizalde@utpl.edu.ec",
+        "name": "Elizalde Ordoñez Humberto",
+        "faculty": "Facultad de Ciencias de la Salud",
+        "department": "Ciencias de la Salud",
+        "career": "Enfermería, contextos y realidades",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cgsarango@utpl.edu.ec",
+        "name": "Sarango Jaramillo Cristhian Geovany",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Estudios de Lingüística, Literatura, Educación y Cultura",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "gsblacio@utpl.edu.ec",
+        "name": "Blacio Aguirre Galo Stalin",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias Jurídicas",
+        "career": "Estudios sobre constitucionalismo latinoamericano y derechos humanos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cegarcia@utpl.edu.ec",
+        "name": "García Torres Carlos Eduardo",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias Jurídicas",
+        "career": "Etica y Sociedad",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rccuenca@utpl.edu.ec",
+        "name": "Cuenca Jiménez Roberto Carlos",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Filosofía, Sociedad y Cultura",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ahreinaldo@utpl.edu.ec",
+        "name": "Armas Herrera Reinaldo",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Finanzas y sistemas financieros",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "aahiguerey@utpl.edu.ec",
+        "name": "Higuerey Gómez Ángel Alexander",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Gestion Contable y Control",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "vpaltamirano@utpl.edu.ec",
+        "name": "Altamirano Benítez Verónica Paulina",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Comunicación",
+        "career": "Gestión de la Comunicación Estratégica",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "aasantos@utpl.edu.ec",
+        "name": "Santos Delgado Ana Alexandra",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Gestión del Conocimiento en las Organizaciones",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pgacosta@utpl.edu.ec",
+        "name": "Acosta Quezada Pablo Geovanny",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Ciencias Biológicas y Agropecuarias",
+        "career": "Gestión sostenible de la agrodiversidad",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "fvlopezx@utpl.edu.ec",
+        "name": "López Rodríguez Fausto Vinicio",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Ciencias Biológicas y Agropecuarias",
+        "career": "Gobernanza, Biodiversidad y Áreas Protegidas",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dsgonzales@utpl.edu.ec",
+        "name": "González Ojeda Diego Salvador",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Grupo de Arte y Estética",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mfquinonez@utpl.edu.ec",
+        "name": "Quiñones Cuenca Manuel Fernando",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Grupo de Comunicaciones Inalámbricas",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jrcastro@utpl.edu.ec",
+        "name": "Castro Mendieta José Raúl",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Grupo de Energía",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jvtamay@utpl.edu.ec",
+        "name": "Tamay Granda José Vidal",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Geociencias",
+        "career": "GRUPO DE GEODINÁMICA",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "epduque@utpl.edu.ec",
+        "name": "Duque Yaguache Edwin Patricio",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ingeniería Civil",
+        "career": "Grupo de Ingeniería Sísmica y Sismología de la UTPL",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pxdalgo@utpl.edu.ec",
+        "name": "Dalgo Aguilar Paola Ximena",
+        "faculty": "Facultad de Ciencias de la Salud",
+        "department": "Ciencias de la Salud",
+        "career": "Grupo de Investigación de Enfermedades Crónicas No Transmisibles de la UTPL",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "snbrizuela@utpl.edu.ec",
+        "name": "Brizuela Camacho Sor Natalia",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "GRUPO DE INVESTIGACIÓN DE PEDAGOGÍA, CURRÍCULUM y  DIDÁCTICA",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ydgarcia1@utpl.edu.ec",
+        "name": "García Ramírez Yasmany Damián",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ingeniería Civil",
+        "career": "Grupo de Investigación en Ingeniería Vial",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "piaguirre@utpl.edu.ec",
+        "name": "Aguirre Chamba Paulina Isabel",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Química",
+        "career": "Grupo de investigación en materiales y ambiente",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "resanchez@utpl.edu.ec",
+        "name": "Sánchez Cevallos Rosario Estefanía",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Grupo de investigación en observación turística",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jabenitezxx@utpl.edu.ec",
+        "name": "Benítez Hurtado Jorge Alonso",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias Jurídicas",
+        "career": "Grupo de investigación Jurídica Aplicada",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jrdelgado66@utpl.edu.ec",
+        "name": "Delgado Fernández José Ramón",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Grupo interdisciplinario sobre la enseñanza y divulgación de las ciencias exactas",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "aeromeiro@utpl.edu.ec",
+        "name": "Romeiro  Artieres  Estevao",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "GRUPO MULTIDISCIPLINAR DE INVESTIGACIÓN EN EDUCACIÓN",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mdcuenca@utpl.edu.ec",
+        "name": "Cuenca Rosillo María De Los Ángeles",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "habitAndes",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "fronate@utpl.edu.ec",
+        "name": "Oñate Valdivieso Fernando Rodrigo",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ingeniería Civil",
+        "career": "Hidrología y Climatología",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pvtorres@utpl.edu.ec",
+        "name": "Torres Carrión Pablo Vicente",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Inclusive Human Computer Interaction",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "lenciso@utpl.edu.ec",
+        "name": "Enciso Quispe Liliana Elvira",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Innovación Tecnológica Educativa",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "hmbenavides@utpl.edu.ec",
+        "name": "Benavides Muñoz Holger Manuel",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ingeniería Civil",
+        "career": "Innovación y Desarrollo para la Sostenibilidad del Ciclo Urbano y Rural del Agua",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rmreategui@utpl.edu.ec",
+        "name": "Reategui Rojas Ruth Maria",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Inteligencia Artificial Aplicada",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cwgranda@utpl.edu.ec",
+        "name": "Granda Tandazo Carlos Vladimir",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Investigación en Innovación y Emprendimiento",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rgserrano@utpl.edu.ec",
+        "name": "Serrano Agila Richard Germán",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Geociencias",
+        "career": "Investigación Minero Metalurgico y Procesos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "grrodriguez@utpl.edu.ec",
+        "name": "Rodríguez Morales Germania del Rocío",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "IT Architecture and Management Research Group",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "nopiedra@utpl.edu.ec",
+        "name": "Piedra Pullaguari Nelson Oswaldo",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Knowledge-Based Systems",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "ciespinosa@utpl.edu.ec",
+        "name": "Espinosa Íñiguez Carlos Iván",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Ciencias Biológicas y Agropecuarias",
+        "career": "Laboratorio de Ecología Tropical y Servicios Ecosistémicos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pevelez@utpl.edu.ec",
+        "name": "Vélez León Paulo Emanuel",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Laboratorio de Filosofía UTPL",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "gbvinamagua@utpl.edu.ec",
+        "name": "Viñamagua Medina Gustavo Belizario",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "career": "Matemática educativa y aplicada",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jpsuarez@utpl.edu.ec",
+        "name": "Suárez Chacón Juan Pablo",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Ciencias Biológicas y Agropecuarias",
+        "career": "Microbial Systems Ecology and Evolution",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "meaguirre2@utpl.edu.ec",
+        "name": "Aguirre Burneo María Elvira",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Psicología",
+        "career": "Orientación educativa: Diagnostico e intervención Psicopedagogica",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dgmoreira@utpl.edu.ec",
+        "name": "Moreira Aguirre Diana Gabriela",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias Jurídicas",
+        "career": "Paz, Ambiente y Sociedad",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "frreyes@utpl.edu.ec",
+        "name": "Reyes Bueno Fabián René",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Ciencias Biológicas y Agropecuarias",
+        "career": "Planificación de la tierra y sistemas sociales",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "rsuarez2@utpl.edu.ec",
+        "name": "Suárez De Terán Rosario",
+        "faculty": "Facultad de Ciencias de la Salud",
+        "department": "Ciencias de la Salud",
+        "career": "Prevención y Promoción de la Salud",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mameneses@utpl.edu.ec",
+        "name": "Meneses Chamba Miguel Ángel",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Química",
+        "career": "Procesos Innovadores para el desarrollo y calidad de productos y alimentos saludables",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jcromerob@utpl.edu.ec",
+        "name": "Romero Benavides Juan Carlos",
+        "faculty": "Facultad de Ciencias Exactas y Naturales",
+        "department": "Química",
+        "career": "Productos Naturales: cáncer y parasitosis",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "vmlopez5@utpl.edu.ec",
+        "name": "López Guerra Víctor Manuel",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Psicología",
+        "career": "Psicología Clínica y de la Salud",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dmortega1@utpl.edu.ec",
+        "name": "Ortega Jiménez David Mauricio",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Psicología",
+        "career": "Psicología social y bienestar laboral",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "vhgonzalez@utpl.edu.ec",
+        "name": "González Jaramillo Víctor Hugo",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ingeniería Civil",
+        "career": "Redes de Sensores Inalámbricos",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "fasandoval@utpl.edu.ec",
+        "name": "Sandoval Noreña Francisco Alberto",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ciencias de la Computación y Electrónica",
+        "career": "Redes robustas, sustentables y seguras",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "eipineda@utpl.edu.ec",
+        "name": "Pineda Puglla Edgar Iván",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Ingeniería Civil",
+        "career": "TECNOLOGÍAS DEL AGUA Y SANEAMIENTO RURAL",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mgcamargo@utpl.edu.ec",
+        "name": "Camargo Mora María Gabriela",
+        "faculty": "Facultad de Ingenierías y Arquitectura",
+        "department": "Arquitectura y Urbanismo",
+        "career": "Territorio. Estudios y Proyectos Interdisciplinarios",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jepaladines@utpl.edu.ec",
+        "name": "Paladines Benítez Jhoana Elizabeth",
+        "faculty": "Facultad de Ciencias Económicas y Empresariales",
+        "department": "Ciencias Empresariales",
+        "career": "Visión Social y Gestión de las Organizaciones",
+        "provider": "MICROSOFT"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "id": "frgomez@utpl.edu.ec",
+        "name": "Fredy Ricardo Gómez Correa",
+        "faculty": "Facultad de Ciencias Economicas y Empresariales ",
+        "department": "Economía ",
+        "career": "Medicina",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "alrojas4@utpl.edu.ec",
+        "name": "Ana Lizette Rojas Rodríguez",
+        "faculty": "Facultad de Ciencias de la Salud ",
+        "department": "Ciencias de la Salud ",
+        "career": "Pedagogía de la Religión ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "jmyaguana@utpl.edu.ec",
+        "name": "Yohana Maricela Yaguana Castillo",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "career": "Arquitectura",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "vdallorto@utpl.edu.ec",
+        "name": "Valentina Dallorto",
+        "faculty": "Facultad de Ingenierias y Arquitectura",
+        "department": "Arquitectura y Urbanismo ",
+        "career": "Agropecuaria",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "edcapa@utpl.edu.ec",
+        "name": "Daniel Capa ",
+        "faculty": "Facuktad de Ciencias Exactas y Naturales ",
+        "department": "Ciencias Biológicas y Agropeuarias",
+        "career": "Ingeniería Civil ",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "cmlapo@utpl.edu.ec",
+        "name": "Mireya Lapo ",
+        "faculty": "Facultad de Ingenierias y Arquitectura",
+        "department": "Ingeniería Civil ",
+        "career": "Nutrición y Dietética",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "nvcardenas1@utpl.edu.ec",
+        "name": "Verónica Cárdenas ",
+        "faculty": "Facultad de Ciencias de la Salud ",
+        "department": "Ciencias de la Salud ",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "bcalvas@utpl.edu.ec",
+        "name": "Baltazar Calvas",
+        "faculty": "Dirección General de Vinculación",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "dcolindres@utpl.edu.ec",
+        "name": "Dora Colindres",
+        "faculty": "Facultad de Ciencias de la Salud ",
+        "department": "Ciencias de la Salud ",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "pnpiedra@utpl.edu.ec",
+        "name": "Patricia Piedra",
+        "faculty": "Dirección General de Vinculación",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "aasantos@utpl.edu.ec",
+        "name": "Ana Santos ",
+        "faculty": "Facultad de Ciencias Economicas y Empresariales",
+        "department": "Ciencias Empresariales ",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "gylojan@utpl.edu.ec",
+        "name": "Gabriela Loján",
+        "faculty": "Dirección General de Vinculación",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mdrodas@utpl.edu.ec",
+        "name": "Ma. Dolores Rodas ",
+        "faculty": "Dirección General de Vinculación",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "spguayllas@utpl.edu.ec",
+        "name": "Stalin Guayllas",
+        "faculty": "Dirección General de Vinculación",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "iwreis@utpl.edu.ec",
+        "name": "Ingrid Weingartner Reis",
+        "faculty": "Facultad de Ciencias Economicas y Empresariales",
+        "department": "Ciencias Empresariales ",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mclandacay@utpl.edu.ec",
+        "name": "Mireya Landacay ",
+        "faculty": "Facultad de Ciencias Economicas y Empresariales",
+        "department": "Ciencias Empresariales ",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "bsuarez1@utpl.edu.ec",
+        "name": "Victoriano Suárez",
+        "faculty": "Facultad de Ciencias Economicas y Empresariales",
+        "department": "Ciencias Empresariales ",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "angel.salinas@espoch.edu.ec",
+        "name": "Ángel Polivio Salinas López",
+        "faculty": "Escuela Superior Politécnica de Chimborazo - ESPOCH",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "mvasquez@ucacue.edu.ec",
+        "name": "Ma. Eugenia Vásquez Cobos",
+        "faculty": "Universidad Católica de Cuenca",
+        "department": "",
+        "career": "",
+        "provider": "MICROSOFT"
+    },
+    {
+        "id": "henrique.berg@gmail.com",
+        "name": "Henrique Berg",
+        "faculty": "Ciencias Sociales y Aplicadas ",
+        "department": "",
+        "career": "",
+        "provider": "GOOGLE"
+    },
+    {
+        "id": "rikardop@gmail.com",
+        "name": "Ricardo Pereira",
+        "faculty": "",
+        "department": "",
+        "career": "",
+        "provider": "GOOGLE"
+    }
+]

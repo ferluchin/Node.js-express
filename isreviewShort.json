@@ -1,0 +1,29 @@
+[
+    {
+        "id": "amarciniegas@utpl.edu.ec",
+        "name": "Alicia Mercedes  Arciniegas Naula",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Filosofía, Artes y Humanidades",
+        "provider": "MICROSOFT",
+        "career": "Artes Escenicas",
+        "isReview": true
+    },
+    {
+        "id": "fajaramillo@utpl.edu.ec",
+        "name": "Fabián Jaramillo Serrano",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "provider": "MICROSOFT",
+        "career": "Artes Escenicas",
+        "isReview": true
+    },
+    {
+        "id": "mbuele@utpl.edu.ec",
+        "name": "Mariana Angelita Buele Maldonado",
+        "faculty": "Facultad de Ciencias Sociales, Educación y Humanidades",
+        "department": "Ciencias de la Educación",
+        "provider": "MICROSOFT",
+        "career": "Maestría en Educación con mención en innovación y liderazgo educativo",
+        "isReview": true
+    }
+]
